@@ -1,5 +1,8 @@
 * Flycheck-jade 
 
+  #+ATTR_HTML: title="Join the chat at https://gitter.im/robbyoconnor/flycheck-jade"
+  [[https://gitter.im/robbyoconnor/flycheck-jade?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][file:https://badges.gitter.im/Join%20Chat.svg]]
+
 [[http://www.flycheck.org][Flycheck]] already has amazing support for many languages, but lacks support for Jade. Fearing that my code 
 would not be merged into core, I have extracted the code into this extension.
 
