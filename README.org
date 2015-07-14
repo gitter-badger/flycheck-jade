@@ -1,6 +1,6 @@
 * Flycheck-jade 
 
-[[https://github.com/flycheck/flycheck][Flycheck]] already has amazing support for many languages, but lacks support for Jade. Fearing that my code 
+[[http://www.flycheck.org][Flycheck]] already has amazing support for many languages, but lacks support for Jade. Fearing that my code 
 would not be merged into core, I have extracted the code into this extension.
 
 * Todo 
